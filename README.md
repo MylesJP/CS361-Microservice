@@ -15,3 +15,7 @@ The response from the microservive will be of JSON form. The console log respons
 
 ![image](https://user-images.githubusercontent.com/96148570/236643559-f6e5c60d-4385-4780-a340-8de4099c0df6.png)
 
+UML Sequence Diagram
+The diagram for a request and reponse from the microservice is simply:
+
+![image](https://user-images.githubusercontent.com/96148570/236644055-6f1aba05-67b6-4a55-84c3-c0f3a11823c4.png)
