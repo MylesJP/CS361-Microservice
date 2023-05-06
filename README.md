@@ -17,7 +17,7 @@ The response from the microservice will be of JSON form. The console log respons
 
 This JSON can then be parsed and presented as you see fit.
 
-UML Sequence Diagram
+### UML Sequence Diagram
 The diagram for a request and reponse from the microservice is simply:
 
 ![image](https://user-images.githubusercontent.com/96148570/236644055-6f1aba05-67b6-4a55-84c3-c0f3a11823c4.png)
