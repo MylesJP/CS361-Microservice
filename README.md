@@ -1,7 +1,7 @@
 # CS361-Microservice
 ### Request
 A request can be made to the REST API at the following url:
-https://leetcode-microservice.onrender.com/get/<topic>
+https://leetcode-microservice.onrender.com/get/{topic}
 
 For example, to see study information related to arrays you would make a request to:
 https://leetcode-microservice.onrender.com/get/arrays
